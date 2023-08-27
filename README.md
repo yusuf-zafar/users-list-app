@@ -19,11 +19,10 @@ npm (v6.0 or higher)
 1. ## Installation
 
 Clone the repository:
-
-`git clone https://github.com/your-username/users-list-app.git`
-`cd users-list-app`
-Install the required dependencies:
-`npm install`
+ 1. `git clone https://github.com/your-username/users-list-app.git`
+ 2. `cd users-list-app`
+ Install the required dependencies:
+ 3. `npm install`
 
 2. ## Usage
 

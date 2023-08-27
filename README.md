@@ -45,5 +45,5 @@ Pull down the text above the list to refresh and fetch updated user data from th
  4. Pull to refresh to update the list with new user data from the GitHub API.
  5. List of users and bookmarks maintained in offline mode.
 
-4. ## Contributing
+## 4. Contributing
 Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.

@@ -16,7 +16,7 @@ Node.js (v12.0 or higher)
 npm (v6.0 or higher)
 
 
-1. ## Installation
+## 1. Installation
 
 Clone the repository:
  1. `git clone https://github.com/your-username/users-list-app.git`
@@ -25,7 +25,7 @@ Clone the repository:
 Install the required dependencies:
  1. `npm install`
 
-2. ## Usage
+## 2. Usage
 
 Start the development server:
 
@@ -38,7 +38,7 @@ Bookmark users by clicking the "Select" button.
 
 Pull down the text above the list to refresh and fetch updated user data from the GitHub API.
 
-3. ## Features
+## 3. Features
  1. Display a list of users fetched from the GitHub API.
  2. Search for users by their username.
  3. Bookmark users and save them in local storage.
